@@ -1,4 +1,4 @@
-# Flutter App Ecommerce
+# Flutter Schedule Posts App
 
 Repositório referente a um aplicativo de agendamento e exibição de posts por data feito com Flutter.
 
